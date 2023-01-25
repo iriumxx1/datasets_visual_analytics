@@ -1,0 +1,28 @@
+﻿"Año";"Periodo";"Parámetro";"Total 2008-2012";"Total 2013-2017"
+"2017";"Año";"7ºPM+H2020";"133";"200"
+"2017";"Año";"Filantrópica";"92";"147"
+"2017";"Año";"ISCIII";"285";"248"
+"2017";"Año";"Ministerio-AEI";"171";"188"
+;;;
+;;;
+"Métrica":"Total 2008-2012"
+"Fuente":"AECC"
+"Clasificación":""
+"Unidad":"€"
+"Escala":"Millones"
+"EscalaFactorPotencia10":"6"
+"SonDatosNumericos":"True"
+;;;
+;;;
+"Métrica":"Total 2013-2017"
+"Fuente":"AECC"
+"Clasificación":""
+"Unidad":"€"
+"Escala":"Millones"
+"EscalaFactorPotencia10":"6"
+"SonDatosNumericos":"True"
+;;;
+;;;
+"Url":"https://www.epdata.es/evolucion-financiacion-espanola-investigacion-cancer-fuente/01aa3db9-a5d8-43bd-8677-1574e10e3909"
+"Titulo":"Evolución de la financiación española de la investigación del cáncer por fuente"
+"Subtitulo":""

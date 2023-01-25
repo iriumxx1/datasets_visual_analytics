@@ -1,0 +1,31 @@
+﻿"Año";"Periodo";"Parámetro";"Local";"Metastático"
+"2018";"Año";"Colorrectal";"16.529";"34.738"
+"2018";"Año";"Hematológico";"55.578";"55.578"
+"2018";"Año";"Mama";"8.271";"35.732"
+"2018";"Año";"Otros";"11.820";"29.718"
+"2018";"Año";"Próstata";"5.321";"14.129"
+"2018";"Año";"Pulmón";"17.158";"34.272"
+"2018";"Año";"Vejiga";"11.820";"29.718"
+;;;
+;;;
+"Métrica":"Local"
+"Fuente":"Asociación Española contra el Cáncer"
+"Clasificación":""
+"Unidad":"Euros"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;
+;;;
+"Métrica":"Metastático"
+"Fuente":"Asociación Española contra el Cáncer"
+"Clasificación":""
+"Unidad":"Euros"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;
+;;;
+"Url":"https://www.epdata.es/coste-estimado-paciente-tratamiento-cancer-tipologia-estadio/909d7dbe-e607-4d75-924d-312dc443603c"
+"Titulo":"Coste estimado por paciente de tratamiento de cáncer por tipología y estadio en España"
+"Subtitulo":""
