@@ -1,5 +1,3 @@
-Estimated incidence by cancer - summary
-" Spain, Both sexes, All ages, Baseline"
 "Cancer","Population 2020","Population 2040","Cases 2020","Cases 2040","Relative change",
 "All sites but non-melanoma skin",45794180,49377094,260455,356278,"36.8 %",
 "Bladder",45794180,49377094,18512,27609,"49.1 %",
@@ -33,6 +31,3 @@ Estimated incidence by cancer - summary
 "Thyroid",45794180,49377094,5063,5582,"10.3 %",
 "Vagina",45794180,49377094,150,202,"34.7 %",
 "Vulva",45794180,49377094,1018,1355,"33.1 %",
-Source: ECIS - European Cancer Information System
-From https://ecis.jrc.ec.europa.eu/, accessed on 25/0/2023
-(C) European union, 2023"
